@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Reelify AI",
+    "website": "https://reelifyclips.com/",
+    "free_tier": "90 Hours / month",
+    "price_monthly": 0,
+    "watermark": false,
+    "features": ["Bulk Processing", "No Credit Card", "Auto-Captions"]
+  },
+  {
+    "id": 2,
+    "name": "OpusClip",
+    "website": "https://www.opus.pro",
+    "free_tier": "60 Minutes / month",
+    "price_monthly": 29,
+    "watermark": true,
+    "features": ["High Quality AI", "Face Focus"]
+  },
+  {
+    "id": 3,
+    "name": "Vizard",
+    "website": "https://vizard.ai",
+    "free_tier": "120 Minutes / month",
+    "price_monthly": 30,
+    "watermark": true,
+    "features": ["Editor Interface", "Templates"]
+  },
+  {
+    "id": 4,
+    "name": "GetMunch",
+    "website": "https://www.getmunch.com",
+    "free_tier": "0 Minutes",
+    "price_monthly": 49,
+    "watermark": true,
+    "features": ["Marketing Focus", "Trend Analysis"]
+  }
+]
